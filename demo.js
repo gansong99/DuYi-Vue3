@@ -12,3 +12,5 @@ for (let i = 0; i < 10; i++) {
 console.log("1234");
 
 console.log("1234");
+
+console.log("4321")
